@@ -1,6 +1,14 @@
 * {
     font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
 
+.link {
+    color: rgb(99, 99, 253);
+}
+
+body {
+    background-color: rgb(12,12,12);
+}
 
 
