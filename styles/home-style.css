@@ -1,0 +1,22 @@
+h1 {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+}
+
+.recipe-list {
+    background-color: greenyellow;
+    margin: 10px auto;
+    padding: 20px 10px;
+    width: fit-content;
+    display: flexbox;
+}
+
+.recipe {
+    background-color: aqua;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    font-size: large;
+}
