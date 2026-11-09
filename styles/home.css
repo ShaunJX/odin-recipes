@@ -19,13 +19,16 @@ h1 {
 }
 
 .recipe {
+    margin: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+
+.link {
     background-color: aqua;
     margin: 10px;
     padding: 10px;
     display: inline-block;
     font-size: large;
-}
-
-.link {
     color: blue;
 }
