@@ -1,4 +1,38 @@
+.figure-container {
+    background-color: gray;
+    box-sizing: border-box;
+    width: min-content;
+    padding: 20px 10px;
+    margin: 0px auto;
+}
+
+figure {
+    width: min-content;
+}
+
+figcaption {
+    color: black;
+}
+
+figcaption .link {
+    color: blue;
+}
+
+h2 {
+    color: orange;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
 .home {
+    font-size: larger;
+    text-decoration: none;
     border: 3px solid white;
     padding: 5px;
 }
+
+
+
+
